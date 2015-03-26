@@ -11,7 +11,7 @@ module Stampy
     def stamp
       @timestamp = timestamp
       @version = version
-      Sass::Script::String.new(comment)
+      Sass::Script::String.new comment
     end
     declare :stamp, []
 
