@@ -1,6 +1,6 @@
 # Stampy [![Gem Version](https://badge.fury.io/rb/stampy.svg)](http://badge.fury.io/rb/stampy)
 
-Timestamps and stuff, for your Sass.
+Stampy outputs a nifty timestamp, the current Sass version and other fun stuff into your compiled stylesheets
 
 ## Installation
 
