@@ -4,7 +4,7 @@ Stampy outputs a nifty timestamp, the current Sass version and other fun stuff i
 
 ```scss
 /*!
- * #{stampy()}
+ * #{stampy()} // Or... stamp()
  */
 ```
 
