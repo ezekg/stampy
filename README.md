@@ -6,6 +6,11 @@ Stampy outputs a nifty timestamp, the current Sass version and other fun stuff i
 /*!
  * #{stampy()} // Or... stamp()
  */
+
+// Will output something along the lines of...
+/*!
+ * Compiled on 2015-03-26 at 13:16:00 using Sass version 3.4.10 (Selective Steve)
+ */
 ```
 
 ## Installation
